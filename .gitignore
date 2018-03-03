@@ -5,7 +5,7 @@ tags
 **/*.metadata.json
 
 /hooks
-
+platforms
 /nativescript-angular/**/*.d.ts
 /nativescript-angular/**/*.js
 
